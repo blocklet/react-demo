@@ -1,5 +1,5 @@
 name: react-demo
-version: 0.1.20
+version: 0.1.21
 homepage: 'https://github.com/blocklet/react-demo'
 files:
   - blocklet.md
@@ -17,7 +17,7 @@ author:
   name: ArcBlock
 scripts:
   dev: npm run start
-specVersion: 1.2.3
+specVersion: 1.2.4
 did: z8iZvpvLdpfxkvTFdawCF3s5UJdUSkP2NXqPC
 community: ''
 documentation: ''
@@ -29,6 +29,10 @@ interfaces:
     prefix: '*'
     port: BLOCKLET_PORT
     protocol: tcp
+    services:
+      - name: '@abtnode/auth-service'
+        config:
+          blockUnauthenticated: false
 environments: []
 screenshots: []
 timeout:
@@ -40,7 +44,12 @@ requirements:
 payment:
   price: []
   share: []
-children: []
+children:
+  - name: did-comments
+    resolved: >-
+      file:///Users/naterobinson/work/arcblock-blocklets/did-comments/blocklet/did-comments/.blocklet/release/blocklet.json
+    mountPoint: /did-comments
+    mountPoints: []
 capabilities:
   clusterMode: false
   component: true
