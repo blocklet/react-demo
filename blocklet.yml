@@ -1,10 +1,11 @@
 name: react-demo
-version: 0.1.20
-homepage: 'https://github.com/blocklet/react-demo'
+version: 0.1.21
+homepage: https://github.com/blocklet/react-demo
 files:
   - blocklet.md
   - README.md
   - build
+logo: logo.png
 title: React Demo
 keywords:
   - static
@@ -17,7 +18,7 @@ author:
   name: ArcBlock
 scripts:
   dev: npm run start
-specVersion: 1.2.3
+specVersion: 1.2.7
 did: z8iZvpvLdpfxkvTFdawCF3s5UJdUSkP2NXqPC
 community: ''
 documentation: ''
