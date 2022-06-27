@@ -1,3 +1,8 @@
+## 0.1.21 (June 27, 2022)
+
+- fix: resize the logo
+- [skip ci] Update README.md
+
 ## 0.1.20 (March 21, 2022)
 
 - fix sw scope
