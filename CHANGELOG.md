@@ -1,3 +1,7 @@
+## 0.1.22 (October 21, 2022)
+
+- chore: update react to 18
+
 ## 0.1.21 (June 27, 2022)
 
 - fix: resize the logo
