@@ -1,6 +1,6 @@
 ## 0.1.23 (January 21, 2023)
 
-- updated yarn.lock
+- chore: updated yarn.lock
 
 ## 0.1.22 (October 21, 2022)
 
