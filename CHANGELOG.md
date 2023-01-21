@@ -1,4 +1,4 @@
-## 0.1.22 (January 21, 2023)
+## 0.1.23 (January 21, 2023)
 
 - updated yarn.lock
 
