@@ -1,3 +1,7 @@
+## 0.1.22 (January 21, 2023)
+
+- updated yarn.lock
+
 ## 0.1.22 (October 21, 2022)
 
 - chore: update react to 18
