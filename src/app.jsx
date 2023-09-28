@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 
 // eslint-disable-next-line import/no-unresolved
-import './app.css';
+import './style.css';
 import Home from './pages/home';
 import About from './pages/about';
 
