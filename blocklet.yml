@@ -1,10 +1,10 @@
 name: react-demo
-version: 0.1.23
+version: 0.2.0
 homepage: https://github.com/blocklet/react-demo
 files:
   - blocklet.md
   - README.md
-  - build
+  - dist
 logo: logo.png
 title: React Demo
 keywords:
@@ -13,7 +13,7 @@ keywords:
   - react
 description: Blocklet from local react-demo
 group: static
-main: build
+main: dist
 author:
   name: ArcBlock
   email: blocklet@arcblock.io

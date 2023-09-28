@@ -1,3 +1,7 @@
+## 0.2.0 (2023-9-28)
+
+- refactor react demo
+
 ## 0.1.23 (September 28, 2023)
 
 - chore: update blocklet.yml
