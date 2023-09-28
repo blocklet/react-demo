@@ -1,5 +1,5 @@
 name: react-demo
-version: 0.1.22
+version: 0.1.23
 homepage: https://github.com/blocklet/react-demo
 files:
   - blocklet.md
@@ -16,12 +16,14 @@ group: static
 main: build
 author:
   name: ArcBlock
+  email: blocklet@arcblock.io
+  url: https://github.com/blocklet
 scripts:
   dev: npm run start
-specVersion: 1.2.7
+specVersion: 1.2.8
 did: z8iZvpvLdpfxkvTFdawCF3s5UJdUSkP2NXqPC
-community: ''
-documentation: ''
+community: https://community.arcblock.io
+documentation: https://developer.blocklet.io
 license: ''
 interfaces:
   - type: web
@@ -44,4 +46,5 @@ payment:
 capabilities:
   clusterMode: false
   component: true
+  navigation: true
 components: []

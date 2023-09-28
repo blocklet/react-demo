@@ -1,3 +1,7 @@
+## 0.1.23 (September 28, 2023)
+
+- chore: update blocklet.yml
+
 ## 0.1.22 (October 21, 2022)
 
 - chore: update react to 18
